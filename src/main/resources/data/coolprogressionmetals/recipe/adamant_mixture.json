@@ -1,0 +1,24 @@
+ {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "A": {
+        "item": "coolprogressionmetalsmod:adamant"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "C": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+   "pattern": [
+     "BCB",
+     "CAC",
+     "BCB"
+   ],
+   "result": {
+     "count": 2,
+     "id": "coolprogressionmetalsmod:adamant_mixture"
+   }
+ }

@@ -1,0 +1,18 @@
+ {
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "B": {
+        "item": "coolprogressionmetalsmod:mithril_ingot"
+      }
+    },
+   "pattern": [
+     "BBB",
+     "BBB",
+     "BBB"
+   ],
+   "result": {
+     "count": 1,
+     "id": "coolprogressionmetalsmod:mithril_block"
+   }
+ }

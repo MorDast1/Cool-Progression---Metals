@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 20,
+  "group": "adamant",
+  "ingredient": {
+    "item": "coolprogressionmetalsmod:adamant_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:adamant"
+  }
+}

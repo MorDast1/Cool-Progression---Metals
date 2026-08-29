@@ -5,5 +5,18 @@
 
   "item.coolprogressionmetalsmod.mithril": "Мифрил",
   "item.coolprogressionmetalsmod.adamant": "Адамант",
-  "item.coolprogressionmetalsmod.nixtris": "Никстрис"
+  "item.coolprogressionmetalsmod.nixtris": "Никстрис",
+
+  "item.coolprogressionmetalsmod.mithril_mixture": "Мифриловая смесь",
+  "item.coolprogressionmetalsmod.adamant_mixture": "Адамантиевая смесь",
+  "item.coolprogressionmetalsmod.nixtris_polymer": "Никстрисовый полимер",
+
+  "block.coolprogressionmetalsmod.mithril_block": "Мифриловый блок",
+  "block.coolprogressionmetalsmod.adamant_block": "Адамантиевый блок",
+  "block.coolprogressionmetalsmod.nixtris_block": "Никстрисовый блок",
+  "block.coolprogressionmetalsmod.mithril_ore": "Мифриловая руда",
+  "block.coolprogressionmetalsmod.adamant_ore": "Адамантиевый лом",
+  "block.coolprogressionmetalsmod.nixtris_ore": "Никстрисовая руда",
+
+  "creative.coolprogressionmetals.items": "Cool Progression - Metals"
 }
