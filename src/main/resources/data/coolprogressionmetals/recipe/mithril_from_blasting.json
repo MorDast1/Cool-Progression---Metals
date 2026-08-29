@@ -1,0 +1,14 @@
+ {
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 100,
+    "experience": 20,
+    "group": "mithril",
+    "ingredient": {
+      "item": "coolprogressionmetalsmod:mithril_mixture"
+    },
+    "result": {
+      "count": 1,
+      "id": "coolprogressionmetalsmod:mithril_ingot"
+    }
+  }

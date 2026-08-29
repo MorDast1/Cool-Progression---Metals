@@ -5,5 +5,18 @@
 
   "item.coolprogressionmetalsmod.mithril": "Mithril",
   "item.coolprogressionmetalsmod.adamant": "Adamant",
-  "item.coolprogressionmetalsmod.nixtris": "Nixtris"
+  "item.coolprogressionmetalsmod.nixtris": "Nixtris",
+
+  "item.coolprogressionmetalsmod.mithril_mixture": "Mithril mixture",
+  "item.coolprogressionmetalsmod.adamant_mixture": "Adamant mixture",
+  "item.coolprogressionmetalsmod.nixtris_polymer": "Nixtris polymer",
+
+  "block.coolprogressionmetalsmod.mithril_block": "Mithril block",
+  "block.coolprogressionmetalsmod.adamant_block": "Adamant block",
+  "block.coolprogressionmetalsmod.nixtris_block": "Nixtris block",
+  "block.coolprogressionmetalsmod.mithril_ore": "Mithril ore",
+  "block.coolprogressionmetalsmod.adamant_ore": "Adamant ore",
+  "block.coolprogressionmetalsmod.nixtris_ore": "Nixtris ore",
+
+  "creative.coolprogressionmetals.items": "Cool Progression - Metals"
 }
