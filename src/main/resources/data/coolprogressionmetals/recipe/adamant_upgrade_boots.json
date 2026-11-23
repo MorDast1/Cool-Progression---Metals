@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "coolprogressionmetalsmod:adamant_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "coolprogressionmetalsmod:mithril_boots"
+  },
+  "addition": {
+    "item": "coolprogressionmetalsmod:adamant_ingot"
+  },
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:adamant_boots"
+  }
+}

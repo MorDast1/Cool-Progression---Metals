@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "coolprogressionmetalsmod:adamant_ingot"
+    },
+    "S": {
+      "item": "coolprogressionmetalsmod:adamant_rod"
+    }
+  },
+  "pattern": [
+    "###",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:adamant_pickaxe"
+  }
+}

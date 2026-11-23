@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "coolprogressionmetalsmod:mithril_sword",
+    "coolprogressionmetalsmod:adamant_sword",
+    "coolprogressionmetalsmod:nixtris_sword",
+    "coolprogressionmetalsmod:mithril_axe",
+    "coolprogressionmetalsmod:adamant_axe",
+    "coolprogressionmetalsmod:nixtris_axe"
+  ]
+}

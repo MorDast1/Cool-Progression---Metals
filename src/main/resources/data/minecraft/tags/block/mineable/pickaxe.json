@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "coolprogressionmetalsmod:mithril_ore",
+    "coolprogressionmetalsmod:mithril_block",
+    "coolprogressionmetalsmod:adamant_ore",
+    "coolprogressionmetalsmod:adamant_block",
+    "coolprogressionmetalsmod:nixtris_ore",
+    "coolprogressionmetalsmod:nixtris_block"
+  ]
+}

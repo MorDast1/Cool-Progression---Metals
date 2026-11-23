@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Q": {
+      "item": "coolprogressionmetalsmod:nixtris"
+    },
+    "I": {
+      "item": "coolprogressionmetalsmod:nixtris_ingot"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "minecraft:dragon_head"
+    }
+  },
+  "pattern": [
+    "QIQ",
+    "ISI",
+    "QDQ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:nixtris_core"
+  }
+}

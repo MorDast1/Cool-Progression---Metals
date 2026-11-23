@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "coolprogressionmetalsmod:nixtris_ingot"
+    },
+    "S": {
+      "item": "coolprogressionmetalsmod:nixtris_rod"
+    }
+  },
+  "pattern": [
+    "###",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:nixtris_pickaxe"
+  }
+}

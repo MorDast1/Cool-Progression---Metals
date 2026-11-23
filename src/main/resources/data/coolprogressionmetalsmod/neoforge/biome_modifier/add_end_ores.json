@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "step": "underground_ores",
+  "features": [
+    "coolprogressionmetalsmod:nixtris_ore_large",
+    "coolprogressionmetalsmod:nixtris_ore_small"
+  ]
+}

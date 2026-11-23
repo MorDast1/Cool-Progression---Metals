@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:elytra"
+  },
+  "base": {
+    "item": "coolprogressionmetalsmod:nixtris_chestplate"
+  },
+  "addition": {
+    "item": "coolprogressionmetalsmod:nixtris_core"
+  },
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:dragon_chestplate"
+  }
+}

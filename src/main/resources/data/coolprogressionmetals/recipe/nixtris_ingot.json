@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 20,
+  "group": "nixtris",
+  "ingredient": {
+    "item": "coolprogressionmetalsmod:nixtris_polymer"
+  },
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:nixtris_ingot"
+  }
+}

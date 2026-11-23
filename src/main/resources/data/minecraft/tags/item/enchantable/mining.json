@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "coolprogressionmetalsmod:mithril_pickaxe",
+    "coolprogressionmetalsmod:adamant_pickaxe",
+    "coolprogressionmetalsmod:nixtris_pickaxe",
+    "coolprogressionmetalsmod:mithril_axe",
+    "coolprogressionmetalsmod:adamant_axe",
+    "coolprogressionmetalsmod:nixtris_axe",
+    "coolprogressionmetalsmod:mithril_shovel",
+    "coolprogressionmetalsmod:adamant_shovel",
+    "coolprogressionmetalsmod:nixtris_shovel",
+    "coolprogressionmetalsmod:mithril_hoe",
+    "coolprogressionmetalsmod:adamant_hoe",
+    "coolprogressionmetalsmod:nixtris_hoe"
+  ]
+}

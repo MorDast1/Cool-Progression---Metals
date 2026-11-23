@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "coolprogressionmetalsmod:mithril_sword",
+    "coolprogressionmetalsmod:adamant_sword",
+    "coolprogressionmetalsmod:nixtris_sword",
+    "coolprogressionmetalsmod:mithril_pickaxe",
+    "coolprogressionmetalsmod:adamant_pickaxe",
+    "coolprogressionmetalsmod:nixtris_pickaxe",
+    "coolprogressionmetalsmod:mithril_axe",
+    "coolprogressionmetalsmod:adamant_axe",
+    "coolprogressionmetalsmod:nixtris_axe",
+    "coolprogressionmetalsmod:mithril_shovel",
+    "coolprogressionmetalsmod:adamant_shovel",
+    "coolprogressionmetalsmod:nixtris_shovel",
+    "coolprogressionmetalsmod:mithril_hoe",
+    "coolprogressionmetalsmod:adamant_hoe",
+    "coolprogressionmetalsmod:nixtris_hoe",
+    "coolprogressionmetalsmod:mithril_helmet",
+    "coolprogressionmetalsmod:adamant_helmet",
+    "coolprogressionmetalsmod:nixtris_helmet",
+    "coolprogressionmetalsmod:mithril_chestplate",
+    "coolprogressionmetalsmod:adamant_chestplate",
+    "coolprogressionmetalsmod:nixtris_chestplate",
+    "coolprogressionmetalsmod:dragon_chestplate",
+    "coolprogressionmetalsmod:mithril_leggings",
+    "coolprogressionmetalsmod:adamant_leggings",
+    "coolprogressionmetalsmod:nixtris_leggings",
+    "coolprogressionmetalsmod:mithril_boots",
+    "coolprogressionmetalsmod:adamant_boots",
+    "coolprogressionmetalsmod:nixtris_boots"
+  ]
+}

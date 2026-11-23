@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "coolprogressionmetalsmod:mithril_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "##",
+    " S",
+    " S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coolprogressionmetalsmod:mithril_hoe"
+  }
+}

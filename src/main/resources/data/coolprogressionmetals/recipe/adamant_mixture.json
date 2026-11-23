@@ -3,13 +3,13 @@
     "category": "misc",
     "key": {
       "A": {
-        "item": "coolprogressionmetalsmod:adamant"
+        "item": "minecraft:netherite_scrap"
       },
       "B": {
         "item": "minecraft:blaze_powder"
       },
       "C": {
-        "item": "minecraft:netherite_scrap"
+        "item": "coolprogressionmetalsmod:adamant"
       }
     },
    "pattern": [

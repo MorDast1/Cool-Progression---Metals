@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "step": "underground_ores",
+  "features": [
+    "coolprogressionmetalsmod:adamant_ore_large",
+    "coolprogressionmetalsmod:adamant_ore_small"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "coolprogressionmetalsmod:mithril_ingot"
+    },
+    "A": {
+      "item": "coolprogressionmetalsmod:adamant"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MAM",
+    "MMM"
+  ],
+  "result": {
+    "count": 2,
+    "id": "coolprogressionmetalsmod:adamant_upgrade_smithing_template"
+  }
+}

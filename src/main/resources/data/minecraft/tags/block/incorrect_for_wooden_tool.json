@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#coolprogressionmetalsmod:needs_mithril_tool",
+    "#coolprogressionmetalsmod:needs_adamant_tool"
+  ]
+}

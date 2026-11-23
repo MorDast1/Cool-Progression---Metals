@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "coolprogressionmetalsmod:mithril_helmet",
+    "coolprogressionmetalsmod:adamant_helmet",
+    "coolprogressionmetalsmod:nixtris_helmet",
+    "coolprogressionmetalsmod:mithril_chestplate",
+    "coolprogressionmetalsmod:adamant_chestplate",
+    "coolprogressionmetalsmod:nixtris_chestplate",
+    "coolprogressionmetalsmod:dragon_chestplate",
+    "coolprogressionmetalsmod:mithril_leggings",
+    "coolprogressionmetalsmod:adamant_leggings",
+    "coolprogressionmetalsmod:nixtris_leggings",
+    "coolprogressionmetalsmod:mithril_boots",
+    "coolprogressionmetalsmod:adamant_boots",
+    "coolprogressionmetalsmod:nixtris_boots"
+  ]
+}
